@@ -1,10 +1,14 @@
-﻿Console.WriteLine("Hello, World academy!! one more messages!");
-Console.WriteLine("Hello, World academy!! one more messages!");
-Console.WriteLine("Hello, World academy!! one more messages!");
-Console.WriteLine("Hello, World academy!! one more messages!");
-Console.WriteLine("Hello, World academy!! one more messages!");
-Console.WriteLine("Hello, World academy!! one more messages!");
-Console.WriteLine("Hello, World academy!! one more messages!");
-Console.WriteLine("Hello, World academy!! one more messages!");
-Console.WriteLine("Hello, World academy!! one more messages!");
-Console.WriteLine("Hello, World academy!! one more messages!");
+﻿void MyFirstMethod()
+{
+    //Do something
+}
+
+void MySecondMethod()
+{
+    //Do something
+}
+
+void MyThirdMethod()
+{
+    //Do something
+}
